@@ -4,7 +4,7 @@
 
 I am the founder of [Blue Beetle Technology](https://bluebeetletech.com/), a remote web and application development consultancy, and I also work remotely as a Lead Web Developer, IT Services, at Northeastern University. I thrive in comfortable and inspiring spaces—a forest on a mountain—where being away from traditional office settings fuels my creativity and productivity.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vanormandesign/ "LinkedIn of Cameron Van Orman") and view [my recent work](https://vanorman.co/ "Website Portfolio of Cameron Van Orman").
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vanormandesign/ "LinkedIn of Cameron Van Orman").
 
 ---
 
